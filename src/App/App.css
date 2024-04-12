@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.container{
+    border: 3px solid goldenrod;
+    width: 50%;
+    border-radius: 40px;
+    padding: 15px;
+    margin: 4px;
+}
+
+.show{
+display: block;
+}
+.hide{
+display: none;
+}
